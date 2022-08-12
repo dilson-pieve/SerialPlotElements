@@ -1,3 +1,6 @@
 [submodule "SerialCpp"]
 	path = SerialCpp
 	url = https://github.com/dilson-pieve/SerialCpp.git
+[submodule "elements"]
+	path = elements
+	url = https://github.com/cycfi/elements.git

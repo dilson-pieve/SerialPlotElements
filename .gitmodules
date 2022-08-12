@@ -1,0 +1,3 @@
+[submodule "SerialCpp"]
+	path = SerialCpp
+	url = https://github.com/dilson-pieve/SerialCpp.git
